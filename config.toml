@@ -1,4 +1,4 @@
-baseURL = 'https://oliviergenez.github.io/'
+baseURL = 'https://olivier.genez.name/'
 languageCode = 'en-us'
 title = 'Olivier Genez'
-theme = 'nostyleplease'
+theme = "nostyleplease"
