@@ -1,0 +1,16 @@
+[[entries]]
+title = "contact"
+
+  [[entries.entries]]
+  title = "<a href=\"mailto:olivier@genez.name\">email</a>"
+  
+  [[entries.entries]]
+  title = "mastodon"
+  url = "https://androiddev.social/@oliviergenez"
+
+
+# [[entries]]
+# title = "posts"
+
+#  [entries.post_list]
+#  post_list = true
